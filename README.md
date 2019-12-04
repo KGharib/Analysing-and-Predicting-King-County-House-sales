@@ -16,3 +16,10 @@ variables whilst looking at houses in the market range and location we suggest
 
 
 Task delegations
+* Cleaning: Khalid, James
+* Analysis: Khalid, James
+* Checking realtionships/Correlation: Khalid
+* Question1: Khalid, James
+* Question2: Khalid, James
+* Question3: Khalid
+* Findings/Comments: Khalid, James
