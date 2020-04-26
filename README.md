@@ -1,6 +1,8 @@
 # Predicting-Sentiment-on-Amazon-Reviews
 
 ### Executive Summary
+The Data used is from: https://www.kaggle.com/harlfoxem/housesalesprediction
+<br><br>
 We will be using the King County Dataset in this project, we will perform EDA, and then answer a few questions based on the data, finally we will predict the House Sale price based on a number of features using Supervised Learning Methods
 <br><br>
 
