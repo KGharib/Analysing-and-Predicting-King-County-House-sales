@@ -7,9 +7,15 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 <br><br>
 
 ### Pre-Processing Steps
+- replaced Null values from waterfront and yr_renovated with the median
+- removed Null/Missing values from view columns as it was only 63 missing points.
+- changed Data column into a dtype format
+- removed "?" values in sqft_basement
 
 <br><br>
+### Statistical Anaylsis
 
+<br><br>
 
 ### Model
 
