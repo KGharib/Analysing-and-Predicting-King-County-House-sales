@@ -9,7 +9,7 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 ### Pre-Processing Steps
 - replaced Null values from waterfront and yr_renovated with the median, the reason being is i wanted to preserve the Median value for that column for future statistical anaylsis.
 - removed Null/Missing values from view columns as it was only 63 missing points, and our dataset was fairly large enough that removing them would not have a negative effect
-- changed Data column into a dtype format
+- changed Date column into a dtype format from integer to be able to do date time anaylsis
 - removed "?" values in sqft_basement
 
 <br><br>
