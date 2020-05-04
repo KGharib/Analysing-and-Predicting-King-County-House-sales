@@ -14,6 +14,8 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 
 <br><br>
 ### Statistical Anaylsis
+-Correlation Heatmap
+-Q1: 
 
 <br><br>
 
