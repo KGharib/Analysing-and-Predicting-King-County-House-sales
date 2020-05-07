@@ -19,7 +19,7 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 <br><br>
 
 ### Questions:
-1. Which price are the most houses being sold and bought at and which price range has most activity and demand?
+1. Which price are the most houses being sold and bought at and furthermore which price range has most activity and demand?
 ### Model
 
 <br><br>
