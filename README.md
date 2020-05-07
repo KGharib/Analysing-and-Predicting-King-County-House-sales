@@ -19,9 +19,9 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 <br><br>
 
 ### Questions:
-1. Which price are the most houses being sold and bought at and furthermore which price range has most activity and demand?
-2. which location/zipcode has most demand?
-3.What is the relation between sqft_living and price?
+- Which price are the most houses being sold and bought at and furthermore which price range has most activity and demand?
+- which location/zipcode has most demand?
+- What is the relation between sqft_living and price?
 ### Model
 
 
