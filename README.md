@@ -14,7 +14,8 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 
 <br><br>
 ### Statistical Anaylsis
--Correlation Heatmap
+- Correlation Heatmap
+- Grouped Houses into prices bands depending on their sale price 
 
 <br><br>
 
@@ -22,6 +23,7 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 - Which price are the most houses being sold and bought at and furthermore which price range has most activity and demand?
 - which location/zipcode has most demand?
 - What is the relation between sqft_living and price?
+
 ### Model
 
 
