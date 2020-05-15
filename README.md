@@ -17,6 +17,7 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 - Correlation Heatmap
 - Grouped Houses into prices bands depending on their sale price 
 - used a heatmap to find most expensive and cheapeast locations
+- used a duplicate counter to count how many houses are being sold in each zipcode by counting the number of times a unique houses is shown in a zipcode
 
 <br><br>
 
