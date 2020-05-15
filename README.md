@@ -16,6 +16,7 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 ### Statistical Anaylsis
 - Correlation Heatmap
 - Grouped Houses into prices bands depending on their sale price 
+- used a heatmap to find most expensive and cheapeast locations
 
 <br><br>
 
