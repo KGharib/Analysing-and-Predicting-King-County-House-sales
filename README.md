@@ -41,7 +41,28 @@ We will be using the King County Dataset in this project, we will perform EDA, a
    
 <br> <br>
 2. **Data Understanding**  
-
+Columns:
+id                 
+date                
+price               
+bedrooms            
+bathrooms           
+sqft_living         
+sqft_lot            
+floors              
+waterfront       
+view               
+condition           
+grade               
+sqft_above          
+sqft_basement       
+yr_built            
+yr_renovated     
+zipcode             
+lat                 
+long                
+sqft_living15       
+sqft_lot15          
     
    <br><br>
 3. **Data Preparation** 
