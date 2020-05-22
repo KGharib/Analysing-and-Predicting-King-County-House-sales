@@ -35,12 +35,13 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 ### Methodology
 
 1. **Business Understanding** 
-
+- Based on the Data we want to be able to advise a Real Estate Agency Company which price range and locations are most profitable 
 - find the factors which affect prices most and be able to buy houses which are being undersold and resell them.
 - find location with most demand so that our business can focus our time and money on those locations with highest probability for profit
    
 <br> <br>
 2. **Data Understanding**  
+
     
    <br><br>
 3. **Data Preparation** 
