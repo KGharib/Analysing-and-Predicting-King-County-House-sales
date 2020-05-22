@@ -34,8 +34,7 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 
 ### Methodology
 
-1. **Business Understanding**
-- we have this data and we want to answer a few questions such as the best price range to buy and sell at to maximise profit and activity.
+1. **Business Understanding** 
 
 - find the factors which affect prices most and be able to buy houses which are being undersold and resell them.
 - find location with most demand so that our business can focus our time and money on those locations with highest probability for profit
