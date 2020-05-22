@@ -41,7 +41,7 @@ We will be using the King County Dataset in this project, we will perform EDA, a
    
 <br> <br>
 2. **Data Understanding**  
-- Column Names and descriptions for Kings County Data Set
+Column Names and descriptions for Kings County Data Set
 - id - unique identified for a house
 - date - house was sold
 - price -  is prediction target
