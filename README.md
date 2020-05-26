@@ -69,7 +69,7 @@ Column Names and descriptions for Kings County Data Set
 - RandomForest: finally i used a RandomForest which performed the best with a score of 74% we then used a GridSearchCV in order to optimise the parameters and see if we could improve that score and after tuning n_estimators, max_depth ,min_samples_leaf ,min_samples_split, max_features we were able to improve our score to 78%
 <br><br>
 4. **Evaluation**
-# Findings
+### Findings
 We cleaned the Dataset, and answered the 3 questions which are meant to have direct and immediate effects on deceision making of our client(Real Estate agency)
 
 We were able to explain and show through analysis the price range that is most suitable for them through both the prices and activity, We then showed them the exact locations that met those conditions and even gave them a list of suggested zipcodes that are within the price bands and the number of corrosponding houses being bought and sold in that zipcode.
@@ -80,7 +80,7 @@ We finally used different machine learning methods in order to be able to predic
   
 <br><br>
 6. **Future Tasks**
-# Further Works
+### Further Works
 there are a few things i have in mind to do for future works
 1. Add more features that can effect the prices, a main feature i would like to add more features such as details on geographical locations this would mean collecting more data on specific details on each zipcode or lat/long location such as schools in that area, shopping malls,public transportation, etc. these factors may have a direct negative or positive influence on the price of a house(External factors that affect the price of a house)
 2. I want to build a pipeline for the whole process, do the Imputation, Transformation and Machine Learning all at once
