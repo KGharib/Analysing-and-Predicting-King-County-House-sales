@@ -58,7 +58,7 @@ Column Names and descriptions for Kings County Data Set
 - KNN: for this we firstly scaled the data using a StandardScaler which is imperative as with KNN models we are measuring the distances of points using Uclidean distance and it is nesscessary to level the playing field between all the features in order to make sure that one doesnt out weight another just based on its scale, we got a score of 61% which is an improvement from a Linear Regression Model but still not good enough
 - RandomForest: finally i used a RandomForest which performed the best with a score of 74% we then used a GridSearchCV in order to optimise the parameters and see if we could improve that score and after tuning n_estimators, max_depth ,min_samples_leaf ,min_samples_split, max_features we were able to improve our score to 78%
 <br><br>
-4. **Evaluation**
+4. **Findings**
 We cleaned the Dataset, and answered the 3 questions which are meant to have direct and immediate effects on deceision making of our client(Real Estate agency)
 We were able to explain and show through analysis the price range that is most suitable for them through both the prices and activity, We then showed them the exact locations that met those conditions and even gave them a list of suggested zipcodes that are within the price bands and the number of corrosponding houses being bought and sold in that zipcode.
 We finally used different machine learning methods in order to be able to predict the prices of houses based on ceratain prominent features that are most important, This allows us to be able help the real estate agency do two important tasks.
