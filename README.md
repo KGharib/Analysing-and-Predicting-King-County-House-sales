@@ -3,8 +3,10 @@
 ### Executive Summary
 The Data used is from: https://www.kaggle.com/harlfoxem/housesalesprediction
 <br><br>
-We will be using the King County Dataset in this project, we will perform EDA, and then answer a few questions based on the data, finally we will predict the House Sale price based on a number of features using Supervised Learning Methods
+- We will be using the King County Dataset in this project, we will perform EDA, and then answer a few questions based on the data, finally we will predict the House Sale price based on a number of features using Supervised Learning Methods
+- The point of view we will be taking is that we have been approached by a real estate agency who is looking to start buying and selling in the King County Area and we have been hired to help them answer questions in order to make informed decesions as well as help them make profit through the effecient use of their funds and resources
 <br><br>
+
 
 ### Pre-Processing Steps
 - replaced Null values from waterfront and yr_renovated with the median, the reason being is i wanted to preserve the Median value for that column for future statistical anaylsis.
@@ -22,57 +24,9 @@ We will be using the King County Dataset in this project, we will perform EDA, a
 <br><br>
 
 ### Questions:
-- Which price are the most houses being sold and bought at and furthermore which price range has most activity and demand?
+- Which price are the most houses being sold and bought at and which price range has most activity and demand
 - which location/zipcode has most demand?
-- What is the relation between sqft_living and price?
-
-### Model
-
+- How accuratly can we predict the prices of houses based on certain features using different Machine Learning Techniques
 
 <br><br>
 
-
-### Methodology
-
-1. **Business Understanding** 
-- Based on the Data we want to be able to advise a Real Estate Agency Company which price range and locations are most profitable 
-- find the factors which affect prices most and be able to buy houses which are being undersold and resell them.
-- find location with most demand so that our business can focus our time and money on those locations with highest probability for profit
-   
-<br> <br>
-2. **Data Understanding**  
-Column Names and descriptions for Kings County Data Set
-- id - unique identified for a house
-- date - house was sold
-- price -  is prediction target
-- bedroomsNumber -  of Bedrooms/House
-- bathroomsNumber -  of bathrooms/bedrooms
-- sqft_livingsquare -  footage of the home
-- sqft_lotsquare -  footage of the lot
-- floorsTotal -  floors (levels) in house
-- waterfront - House which has a view to a waterfront
-- view - Has been viewed
-- condition - How good the condition is ( Overall )
-- grade - overall grade given to the housing unit, based on King County grading system
-- sqft_above - square footage of house apart from basement
-- sqft_basement - square footage of the basement
-- yr_built - Built Year
-- yr_renovated - Year when house was renovated
-- zipcode - zip
-- lat - Latitude coordinate
-- long - Longitude coordinate
-- sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
-- sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
-    
-   <br><br>
-3. **Data Preparation** 
-    
-  <br><br>
-4. **Modelling**
-    
-<br><br>
-5. **Evaluation**
-  
-<br><br>
-6. **Future Tasks**
-    
