@@ -72,17 +72,4 @@ Column Names and descriptions for Kings County Data Set
 # Findings
 We cleaned the Dataset, and answered the 3 questions which are meant to have direct and immediate effects on deceision making of our client(Real Estate agency)
 
-We were able to explain and show through analysis the price range that is most suitable for them through both the prices and activity, We then showed them the exact locations that met those conditions and even gave them a list of suggested zipcodes that are within the price bands and the number of corrosponding houses being bought and sold in that zipcode.
-
-We finally used different machine learning methods in order to be able to predict the prices of houses based on ceratain prominent features that are most important, This allows us to be able help the real estate agency do two important tasks.
-1. Be able to predict if a house is worth buying based on the price compared to its features, i.e will the real estate agnecy make a profit by buying/flipping this house?
-2. as well as be able to make accurate estimations when selling a house to maximize profits for the features the house has, i.e what is a reasonable price to sell a house with these features while making maximum profits
-  
-<br><br>
-6. **Future Tasks**
-# Further Works
-there are a few things i have in mind to do for future works
-1. Add more features that can effect the prices, a main feature i would like to add more features such as details on geographical locations this would mean collecting more data on specific details on each zipcode or lat/long location such as schools in that area, shopping malls,public transportation, etc. these factors may have a direct negative or positive influence on the price of a house(External factors that affect the price of a house)
-2. I want to build a pipeline for the whole process, do the Imputation, Transformation and Machine Learning all at once
-
 
