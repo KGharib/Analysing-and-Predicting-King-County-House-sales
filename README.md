@@ -18,7 +18,7 @@ Data Collected from: https://www.kaggle.com/danofer/sarcasm
 
 <br> <br>
 2. **Data Understanding**  
-Column Names and descriptions for Kings County Data Set
+Column Names and descriptions for Data set:
 
 <br><br>
 3. **Modelling**
