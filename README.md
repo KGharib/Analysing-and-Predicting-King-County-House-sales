@@ -1,12 +1,12 @@
 # Predicting-Sentiment-on-Amazon-Reviews
 ### Executive Summary
-The Data used is from: https://www.kaggle.com/harlfoxem/housesalesprediction
+The Data used was collected from: https://www.kaggle.com/harlfoxem/housesalesprediction
 <br><br>
 - I will be using the King County Dataset in this project,I will perform EDA, and then answer a few questions based on the data, finally the House Sale price will be predicted based on a number of features using Supervised Learning Methods
 - The point of view I will be taking is that I have been approached by a real estate agency who is looking to start buying and selling in the King County Area and I have been hired to help them answer questions in order to make informed decesions as well as help them make profit through the effecient use of their funds and resources
 <br><br>
 ### Pre-Processing Steps
-- replaced Null values from waterfront and yr_renovated with the median, the reason being is I wanted to preserve the Median value for that column for future statistical anaylsis.
+- replaced Null values in waterfront and yr_renovated columns with their respective median, the reason being is I wanted to preserve the Median value for that column for future statistical anaylsis.
 - removed Null/Missing values from view columns as it was only 63 missing points, and our dataset was fairly large enough that removing them would not have a negative effect
 - changed Date column into a dtype format from integer to be able to do date time anaylsis
 - removed "?" values in sqft_basement
