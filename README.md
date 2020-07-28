@@ -55,7 +55,7 @@ Column Names and descriptions for Kings County Data Set
 3. **Modelling**
  For the 3rd question I applied 3 differeent Machine Learning Techniques
 - Linear Regression Model: this only gave me a score of around 56% which is only slightly better then randomly guessing
-- KNN: for this, firstly I scaled the data using a StandardScaler which is imperative as with KNN models we are measuring the distances of points using a distance metric(Uclidean) and it is nesscessary to level the playing field between all the features in order to make sure that one doesnt out weight another just based on its scale, we got a score of 61% which is an improvement from a Linear Regression Model but still not good enough
+- KNN: Firstly I scaled the data using a StandardScaler which is important as with KNN models we are measuring the distances of points using a distance metric(Uclidean) and it is nesscessary to to scale the features in order to make sure that one doesnt out weight another just based on its scale, we got a score of 61% which is an improvement from a Linear Regression Model but still not good enough
 - RandomForest: finally I used a RandomForest which performed the best with a score of 74% we then used a GridSearchCV in order to optimise the parameters and see if we could improve that score and after tuning a number of hyperparameters(n_estimators, max_depth ,min_samples_leaf ,min_samples_split, max_features) we were able to improve our score to 78%
 <br><br>
 4. **Findings**
