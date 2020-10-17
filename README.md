@@ -2,7 +2,7 @@
 ### Executive Summary
 The Data used was collected from: https://www.kaggle.com/harlfoxem/housesalesprediction
 <br><br>
-- I will be using the King County Dataset in this project,I will perform EDA, and then answer a few questions based on the data, finally the House Sale price will be predicted based on a number of features using Supervised Learning Methods
+- I will be using the King County Dataset in this project,I will perform EDA, and then answer questions based on the data, finally the House Sale price will be predicted based on a number of features using Supervised Learning Methods
 - The point of view I will be taking is that I have been approached by a real estate agency who is looking to start buying and selling in the King County Area and I have been hired to help them answer questions in order to make informed decesions as well as help them make profit through the effecient use of their funds and resources
 <br><br>
 ### Pre-Processing Steps
